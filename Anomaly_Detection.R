@@ -1,6 +1,5 @@
 #--- OUTLIER DETECTION
 #--- Created by Chawannut (Dunk) Prommin
-#--- As part of data challenge from Blackwood Seven
 
 library("dplyr")
 setwd("D:\\BlackWood")
